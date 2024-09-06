@@ -1,0 +1,12 @@
+6. Summe der Zahlen von 1 bis 100 berechnen
+Aufgabe:
+Schreibe ein Java-Programm, das die Summe der Zahlen von 1 bis 100 berechnet und das Ergebnis ausgibt.
+Diese Aufgabe führt dich tiefer in die Verwendung von Schleifen ein und zeigt, wie man die Ergebnisse von
+Berechnungen in Variablen speichert.
+
+Ziel: Verstehe, wie du mit Schleifen mathematische Berechnungen über eine Reihe von Werten durchführst.
+
+Hinweis: Nutze eine for-Schleife und eine Variable, um die laufende Summe zu berechnen.
+
+Zusatz: Erweitere das Programm so, dass es die Summe der geraden Zahlen zwischen 1 und 100 berechnet.
+

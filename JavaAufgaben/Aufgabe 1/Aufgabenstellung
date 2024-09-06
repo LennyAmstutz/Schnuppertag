@@ -1,0 +1,10 @@
+1. Hello World
+Aufgabe:
+Schreibe ein Java-Programm, das die Nachricht "Hello World" auf der Konsole ausgibt. Dieses
+einfache Programm ist ein klassischer Einstieg in jede Programmiersprache und hilft dir, die
+Grundstruktur eines Java-Programms zu verstehen. Das Ziel dieser Aufgabe ist es, sicherzustellen,
+dass deine Entwicklungsumgebung korrekt eingerichtet ist und du Java-Programme erfolgreich ausführen kannst.
+
+Hinweis: Verwende die Methode System.out.println().
+
+Zusatz: Verändere den Text der Ausgabe, um deinen Namen oder eine kurze Begrüßung anzuzeigen.

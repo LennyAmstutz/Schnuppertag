@@ -1,0 +1,11 @@
+9. Fibonacci-Sequenz berechnen
+Aufgabe:
+Schreibe ein Java-Programm, das die ersten 10 Zahlen der Fibonacci-Sequenz berechnet und ausgibt. In der Fibonacci-Sequenz
+ist jede Zahl die Summe der beiden vorhergehenden Zahlen, beginnend mit 0 und 1. Dies hilft dir, das Arbeiten mit Schleifen
+und Zahlenfolgen zu üben.
+
+Ziel: Verstehe die Verwendung von Schleifen, um mathematische Sequenzen zu generieren.
+
+Hinweis: Verwende eine Schleife und speichere die letzten beiden Zahlen der Sequenz, um die nächste Zahl zu berechnen.
+
+Zusatz: Erweitere das Programm so, dass der Benutzer entscheiden kann, wie viele Zahlen der Fibonacci-Sequenz er sehen möchte.

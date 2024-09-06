@@ -1,0 +1,12 @@
+5. Schleife: Zahlen von 1 bis 10 ausgeben
+Aufgabe:
+Erstelle ein Java-Programm, das die Zahlen von 1 bis 10 nacheinander auf der Konsole ausgibt.
+Diese Aufgabe hilft dir, die Grundlagen von Schleifen in Java zu verstehen und wie man sie verwendet,
+um wiederholte Aktionen durchzuführen.
+
+Ziel: Verstehe, wie for-Schleifen funktionieren und wie sie dir helfen, Wiederholungen im Code effizient zu handhaben.
+
+Hinweis: Verwende eine for-Schleife, um die Zahlen von 1 bis 10 automatisch zu generieren und auszugeben.
+
+Zusatz: Modifiziere das Programm, um die Zahlen rückwärts, also von 10 bis 1, auszugeben.
+

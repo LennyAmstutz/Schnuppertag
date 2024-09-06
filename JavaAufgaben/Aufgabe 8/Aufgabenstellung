@@ -1,0 +1,10 @@
+8. Array: Speichere und gebe Zahlen aus
+Aufgabe:
+Schreibe ein Java-Programm, das ein Array von fünf Ganzzahlen speichert und diese dann nacheinander auf der Konsole ausgibt.
+Arrays sind eine grundlegende Datenstruktur in Java, und diese Aufgabe hilft dir, die Verwendung von Arrays zu erlernen.
+
+Ziel: Lerne, wie du Arrays in Java deklarierst, initialisierst und auf deren Elemente zugreifst.
+
+Hinweis: Erstelle ein Array von fünf Zahlen und verwende eine for-Schleife, um jedes Element des Arrays auszugeben.
+
+Zusatz: Modifiziere das Programm, um den Durchschnittswert der fünf Zahlen im Array zu berechnen und auszugeben.

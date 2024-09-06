@@ -1,0 +1,10 @@
+Aufgabe:
+Erweitere das Programm aus Aufgabe 2. Anstatt feste Zahlen zu verwenden, soll das Programm
+die Zahlen von der Konsole über die Eingabe des Benutzers lesen. Gib das Ergebnis der Addition
+von zwei benutzerdefinierten Zahlen auf der Konsole aus. Dies hilft dir, den Umgang mit Benutzereingaben
+in Java zu lernen und wie man Eingaben verarbeitet.
+
+Ziel: Lerne, wie du Benutzereingaben in dein Programm integrierst und mit der Scanner-Klasse arbeitest.
+
+Hinweis: Verwende die Klasse Scanner, um Benutzereingaben zu erfassen. Vergiss nicht, am Ende des Programms
+den Scanner zu schließen, um Ressourcen freizugeben.

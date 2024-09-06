@@ -1,0 +1,13 @@
+2. Einfacher Taschenrechner (Addition)
+Aufgabe:
+Erstelle ein Java-Programm, das zwei festgelegte Ganzzahlen (z.B. 10 und 5) addiert und das Ergebnis auf
+der Konsole ausgibt. Die Aufgabe zeigt dir, wie du Variablen in Java deklarierst und grundlegende mathematische
+Operationen durchführst. Du wirst sehen, wie einfach es ist, mit Java einfache Berechnungen durchzuführen.
+
+Ziel: Du sollst lernen, wie man Variablen definiert, Werte zuweist und mit ihnen einfache Rechenoperationen durchführt.
+
+Hinweis: Verwende Ganzzahlen (int), um die Zahlen zu speichern, und gib das Ergebnis mit System.out.println() aus.
+
+Zusatz: Probiere aus, was passiert, wenn du andere mathematische Operationen wie Subtraktion, Multiplikation oder
+Division verwendest.
+

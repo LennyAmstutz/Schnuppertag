@@ -1,0 +1,20 @@
+HTML & CSS Aufgabe für den Schnuppertag
+Aufgabe:
+Erstelle eine einfache persönliche Webseite über dich selbst. Diese Seite soll Informationen wie deinen
+Namen, dein Hobby und ein Bild von deinem Lieblingshobby enthalten. Nutze HTML für die Struktur der Seite
+und CSS, um das Aussehen der Seite zu gestalten. Erstelle außerdem eine separate Datei (anleitung.txt), die
+erklärt, wie HTML und CSS zusammenarbeiten, und die grundlegenden HTML- und CSS-Befehle beschreibt.
+
+Anforderungen:
+Erstelle eine HTML-Datei (z.B. index.html):
+
+Füge eine Überschrift (<h1>) mit deinem Namen hinzu.
+Füge einen Absatz (<p>) hinzu, der ein paar Sätze über dein Hobby enthält.
+Füge ein Bild (<img>) hinzu, das dein Hobby zeigt (du kannst ein beliebiges Bild aus dem Internet verwenden).
+Füge eine Liste (<ul> oder <ol>) hinzu, die 3 deiner Lieblingsaktivitäten innerhalb deines Hobbys auflistet.
+Erstelle eine CSS-Datei (z.B. styles.css):
+
+Ändere die Hintergrundfarbe der Webseite.
+Setze die Schriftart der Überschrift auf eine größere und auffälligere Schriftart.
+Gib dem Absatz einen Rand (border) und verändere die Textfarbe.
+Ändere die Breite des Bildes und füge einen Schatten hinzu.

@@ -1,0 +1,12 @@
+7. Funktion: Addiere zwei Zahlen
+Aufgabe:
+Schreibe ein Java-Programm, das eine Methode (Funktion) definiert, die zwei Ganzzahlen als Parameter annimmt,
+diese addiert und das Ergebnis zurückgibt. Dies hilft dir, das Konzept von Methoden in Java zu verstehen und zu
+lernen, wie du Code in wiederverwendbare Blöcke unterteilst.
+
+Ziel: Verstehe, wie du Methoden definierst und aufrufst, um den Code sauberer und organisierter zu gestalten.
+
+Hinweis: Definiere eine Methode addiereZahlen(int a, int b) und rufe sie in der main-Methode auf.
+
+Zusatz: Schreibe eine zweite Methode, die zwei Zahlen multipliziert und das Ergebnis zurückgibt.
+

@@ -1,0 +1,13 @@
+4. If-Abfrage: Gerade oder ungerade Zahl
+Aufgabe:
+Schreibe ein Java-Programm, das eine Zahl von der Konsole liest und überprüft, ob sie gerade
+oder ungerade ist. Dies ist eine Einführung in bedingte Anweisungen in Java, die es dir ermöglichen,
+Entscheidungen im Programmablauf basierend auf bestimmten Bedingungen zu treffen.
+
+Ziel: Lerne, wie du die if- und else-Anweisungen verwendest, um verschiedene Aktionen basierend auf
+einer Bedingung durchzuführen.
+
+Hinweis: Nutze die Modulo-Operation (%), um festzustellen, ob eine Zahl durch 2 teilbar ist.
+
+Zusatz: Erweitere das Programm, um zusätzlich auszugeben, ob die Zahl positiv, negativ oder null ist.
+
